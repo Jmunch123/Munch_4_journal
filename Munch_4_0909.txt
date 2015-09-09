@@ -1,0 +1,3 @@
+Yesterday we created a directory for our new computer profiles, than we created
+a repository for git hub called lastname_4_journal.
+
