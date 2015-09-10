@@ -1,0 +1,2 @@
+we learned how to add files to git hub by using origin and sending messages to our get hub websites via terminal, we first used pico to edit the file of the github website so instesd of creating pages over and over in the wiki we just
+add files through pico and edit the file through terminal, we then added a file to the git hub page and sent a random message to it.
