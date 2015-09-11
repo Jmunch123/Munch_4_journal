@@ -1,0 +1,4 @@
+Psuedocode is basically the draft of code, psuedocode is like code but not
+really you practice on psuedocode but you dont make things with it. Our CS
+class will use psuedocode to get a better understanding of how code work and
+will established how us as students would handle it.

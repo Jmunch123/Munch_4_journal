@@ -1,0 +1,17 @@
+Begin:
+    Do 1 times
+          Draw forward 5cm
+          Turn left 90 degrees
+          Draw forwared 10cm
+    
+    Do 2 times
+          Draw forward 3cm
+	  Turn left 90 degrees
+          Draw forward 2cm
+	  Turn left 90 degrees
+	  Draw forward 3cm
+          Turn left 90 degrees
+	  Draw forward 6cm
+
+          
+ 
