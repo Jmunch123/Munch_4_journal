@@ -1,17 +1,50 @@
 Begin:
     Do 1 times
-          Draw forward 5cm
+          Draw horizontally 5cm
           Turn left 90 degrees
           Draw forwared 10cm
     
-    Do 2 times
-          Draw forward 3cm
+    Do 1 times
+          Draw vertically 3cm
 	  Turn left 90 degrees
           Draw forward 2cm
 	  Turn left 90 degrees
 	  Draw forward 3cm
           Turn left 90 degrees
 	  Draw forward 6cm
+	  Turn left 90 degrees
+    
+    Do 1 times
+	  Draw vertically 4cm
+	  Turn right 90 degrees
+	  Draw forward 3cm
+	  Turn right 90 degrees
+	  Draw forward 1cm
 
-          
- 
+    Do 1 times
+          Draw horizontally 3cm
+          Turn left 90 degrees
+          Draw forward 2cm
+          Turn left 90 degrees
+          Draw forward 3cm
+          Turn left 90 degrees
+          Draw forward 6cm
+          Turn left 90 degrees
+
+    Do 1 times
+	  Draw vertically 3.5cm
+	  Turn right 150 degrees
+	  Draw forward 2cm
+          Turn left 150 degrees
+	  Draw forward 2cm
+	  Turn right 90 degrees
+	  Draw forward 3.5cm
+
+    Do 1 times
+	  Draw diagonally 7cm
+	  Rotate 180 degrees 
+	  Draw forward 4cm
+	  turn left 90 degrees
+	  Draw forward 3cm
+
+End:
