@@ -1,0 +1,4 @@
+An IDE (integrated development enviroment) is a software programe or
+application that provides comprehensive facilities to computer programmers
+for software developement.IDE is good for inproveing the programming skill
+of the programmer and exposes new programmers to easy learning experiance for software developement. 
