@@ -1,0 +1,12 @@
+Steven Ballmer called GPL a virus Steven said " if you use any open-source
+software you have to make the rest of the software open source" meaning if
+you made one protion of code open-source you would have to go back and make
+it all open-source causing loss of time and more work.
+
+open-source software is accessable to anyone to modify and change, while 
+proprietary software is owned by an individual of company and is kept a secret
+and never to be changed.
+
+a gpl is a copyleft license only work could be made through the same terms
+while a mit license is a free software license that could make copies of
+software if provided that they fallow the terms of copyright notice. 
