@@ -1,0 +1,10 @@
+Paid licencse-Money paid to use a copyrighted item owned by someone else
+Shareware-Software that is available free and is often distributed informally for evaluation
+Trialware-Software that can be run for a limited time before it expires
+Ad-ware-Software that displays or downloads advertising material 
+Crippleware-Software distributed with reduced fuctionality by attracrting payment for the fully fuctional version
+Freemium-A product of service is free of charge but money is charged for the featrures, fuctionality, etc
+FreeWare(vs Free-OpenSource)-Freeware is a open source while open source is  software by itself not based on anything else
+Richard Stallman-The founder of Free Software foundation and the GNU project basically created the linux foundation
+Lawrence Lessig-The author of Code and Other Laws of Cyberspace and stated that in law "code" can refer to the text of those laws and big in fair use
+Eben Moglen-He believes that everything should be about freeware and should be shared with everyone
