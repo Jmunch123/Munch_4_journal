@@ -1,0 +1,7 @@
+You can count in java by using font(int) and typing the code i=0; i<100;
+i++ that will count from 1 to 99
+you find a number divisible by inserting the code if(i % a number !=0)
+and if that number is divisible by 2 between 1 and 99 it gets kicked
+out of the count
+you could probably find if a number is divisible by using the if
+statement in implace the number you wanted to be divided by then a number
