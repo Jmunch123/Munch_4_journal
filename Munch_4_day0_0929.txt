@@ -1,0 +1,6 @@
+Methods are messages in object-oriented programming (OOP).
+Methods are to interface an object in the outside world like a window it
+opens and closes.
+you could use methods by imputing the code in a certian way to work with
+the way the method does to create the output made of prime numbers
+
