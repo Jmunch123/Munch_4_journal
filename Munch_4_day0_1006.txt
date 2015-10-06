@@ -1,0 +1,4 @@
+Methods are little programs that recive and return information
+Classes are program templates
+An instance,in object-oriented programming (OOP), is a specific realization of any object.
+class methods are the programes that corispond with each other
