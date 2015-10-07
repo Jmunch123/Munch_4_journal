@@ -1,0 +1,4 @@
+Java Classes objects exibit the properties and behaviors defined by a
+class an enhancement of the basic coding a normal class could do
+maybe a application in the java class or some sort in that matter
+Member, or GenericDeclaration are only two of the multiple arrays of code for a method in a class
