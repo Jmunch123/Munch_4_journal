@@ -1,0 +1,10 @@
+I plan to try and make a certain color strand with several shapes and colors
+most likely i would change the values of the methods and how they will change 
+the project
+I would alter it so it could incorperate how the methods would change the 
+outcome of the code
+I would probably not and an else but the if and else if would go in to 
+where the info would change the for loop output of the code
+algebra and graphic location
+
+
