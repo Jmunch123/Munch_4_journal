@@ -1,0 +1,11 @@
+almost about 3/4 the way need to finish the methods and organize them
+i was either focusing on all the info i was gaining or getting lost in it
+yes i used them to try and follow the recamendations for the project
+yes i followed it to see if my project was not coded or didn't follow the 
+reqirements for the project
+
+gc.setFill(Color.RED);
+gc.fillRect(50,50,10,10);
+gc.fillRect(60,60,10,10);
+gc.fillRect(70,70,10,10);
+
