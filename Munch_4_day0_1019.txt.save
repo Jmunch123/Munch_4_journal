@@ -1,0 +1,11 @@
+I am about the quarter of the way done with my methods.
+I was either focusing on all the knowlege that was being explained or becoming
+lost in all the knowledge that was pownding my brain
+sort of not the all the time but when I searched around for directions I 
+definitly found some that lead me through the project
+Yes I have and I did to see if my code followed up with the reqirements for
+the project 
+gc.setFill(Color.RED);
+gc.fillRect(50,50,10,10)
+gc.fillRect(60,60,10,10)
+gc.fillRect(70,70,10,10)

@@ -1,0 +1,3 @@
+The purpose was probably for the teacher to know that we understand how to 
+use methods and establish the multiple diffrent methods that we will come 
+across in our code. 
