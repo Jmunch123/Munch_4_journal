@@ -1,0 +1,8 @@
+A method is something that takes information and runs of the main branch of 
+information
+I used the main to establish the main information the whole project runs on, 
+and plathegame method uses this info and manipulates it to run the game
+A while loop is a program that keeps runing until it is proven false or till 
+you chose to stop it
+my while loop play again is limited to 7  tries in my game when the tries go 
+over 7 the game ends with a gameover try again.
