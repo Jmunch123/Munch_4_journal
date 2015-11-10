@@ -1,0 +1,3 @@
+Maybe by static boolean to track down what the player does maybe
+every time the Hp is altered the code would imput what Hp you have left
+Nope no items at all only choices and endings
