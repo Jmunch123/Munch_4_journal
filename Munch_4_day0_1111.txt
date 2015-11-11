@@ -1,0 +1,4 @@
+The Challenge is that he/she needs to get out of the woods alive
+By putting either Game overs and taking them back to the choice in which they 
+chose wrong or leting them proceed to the next choice 
+static void river,mountain, and cabin
