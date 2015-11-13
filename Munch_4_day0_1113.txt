@@ -1,0 +1,4 @@
+yes I'll use a while loop to repeat some lines of code instead of rewriting it
+all over again
+yes I will use methods to organize and imput new code that won't be used in
+the rest of the program
