@@ -1,0 +1,6 @@
+a string is a sequence of characters, and alows several diffrent methods 
+to minipulate this information or alter it
+to transform information to diffrent locations and alter it to change the info 
+to fit the method
+a string method is a method compsosed of stringed information in the main that keeps on repeating the info untill told not to by the code
+if there is a piece of information in the method that is classified as a string in the main
