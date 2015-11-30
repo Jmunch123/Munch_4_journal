@@ -1,0 +1,3 @@
+I was fairlly successful in creating the method system for each branching path
+of my game, as I created the methods, they slowly became more similair 
+throughout the project
