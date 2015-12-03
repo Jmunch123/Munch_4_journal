@@ -1,0 +1,4 @@
+I will incorporate several choices so the player can have several diffrent 
+branching paths in the game.
+There arn't that many values in my game maybe 1 or 2 but they don't pass on to
+the other methods, but they do pass on to each other that is mostly it though.
