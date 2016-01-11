@@ -1,0 +1,6 @@
+I will create a game in which u have to evade all the enemy npcs and get to 
+the end of the maze.
+
+I facing the challenge of importing several enemy charcters into my game, and 
+how i will import the map and animations of the nps.
+
