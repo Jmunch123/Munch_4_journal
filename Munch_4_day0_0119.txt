@@ -1,0 +1,10 @@
+I created The Maze which is a knight trying to find the exit before he is 
+consumed by the hedge maze
+
+I solved several animation and image incorperating codes and issues 
+throughout this project but cannot solve the enemy ai
+
+no because i thought we would have time to create the maze and character and 
+start coding later
+
+Sort of i did finish everything but the enemy ai when it was due friday.
