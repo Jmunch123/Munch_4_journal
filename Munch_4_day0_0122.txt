@@ -1,0 +1,4 @@
+The reason that allowed the time delay in the creation of the game was that 
+the enemy code was not established in the game until tuesday and further 
+progression with the ai has been made throughout the week.
+
