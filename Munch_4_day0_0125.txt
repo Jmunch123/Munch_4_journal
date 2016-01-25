@@ -1,0 +1,8 @@
+Everything was great with the production of the game untill the part where we 
+imported the code for the enemy ai but everything like recreating the end and 
+menu screen but the ai was the most difficult part in the whole project.
+
+I first started to incorperate the code and drew the ai but the difficult part
+was making the ai move around randomly but when i asked around my neighbors 
+they helped me create the movement animations for the ai but I fiddled around ]
+with the movement code and boom they started randomly walking around the maze
