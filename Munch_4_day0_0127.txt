@@ -1,0 +1,4 @@
+You add an image by incorperating an new image object, after you make the class that the 
+object is in you only need to type the class than new image and its locations in the flies 
+Image ninjaImage = new Image(
+			"res/d22_ninja.png");
