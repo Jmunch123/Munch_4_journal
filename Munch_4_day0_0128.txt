@@ -1,0 +1,2 @@
+The code is what makes the code in netbeans an actual game, its a class due to
+render being one of the main classes in the program
