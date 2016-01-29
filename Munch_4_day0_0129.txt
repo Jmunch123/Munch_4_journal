@@ -1,0 +1,8 @@
+a class constructor gives the specific class diffrent attributes to the class 
+in the code
+
+the constructor should include what the orb does in the game, and how will the
+player interact with that object
+
+a method to draw the object into the game and one that effects either the 
+player or the ai.
