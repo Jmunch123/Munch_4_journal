@@ -1,0 +1,3 @@
+I would establish diffrent java classes into the program to organize the code 
+if it isn't already.
+
