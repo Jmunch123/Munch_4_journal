@@ -1,0 +1,3 @@
+you would check if the properties for the orb had anything done when it 
+interacted with a objects hitbox if it doesnt have any properties then thats 
+the reason for the orb not damaging the enemy
