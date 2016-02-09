@@ -1,0 +1,3 @@
+I think that the direction would change if the it changed directions if the 
+character faces diffrent ways, the orb would be changed by the code to go 
+in the direction the characters direction by the key press
