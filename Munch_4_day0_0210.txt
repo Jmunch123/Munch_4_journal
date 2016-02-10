@@ -1,0 +1,25 @@
+Making the orb visible after the countdown was added into the code
+the direction of where the orb was going also was sort of a difficulty for me 
+to fix it so the orb would work
+
+making the orb visible:
+ 		    thisOrb.settimeExists(7);
+                    thisOrb.setX((int) player.x);
+                    thisOrb.setY((int) player.y);
+                    thisOrb.hitbox.setX(thisOrb.getX());
+                    thisOrb.hitbox.setY(thisOrb.getY());
+                    thisOrb.setIsVisible(true);
+orb direction:
+		     if (thisOrb.getDirection() == 0){
+                         thisOrb.setX((int) player.x);
+                         thisOrb.setY(thisOrb.getY() - 10);
+                     }else if (thisOrb.getDirection() == 2){
+                         thisOrb.setX((int) player.x);
+                         thisOrb.setY(thisOrb.getY() + 10);
+                     }else if (thisOrb.getDirection() == 3){
+                         thisOrb.setY((int) player.y);
+                         thisOrb.setX(thisOrb.getX() - 10);
+                     }else if (thisOrb.getDirection() == 4){
+                         thisOrb.setY((int) player.y);
+                         thisOrb.setX(thisOrb.getX() + 10);
+                     }
