@@ -1,5 +1,5 @@
-Making the orb visible after the countdown was added into the code
-the direction of where the orb was going also was sort of a difficulty for me 
+1.  Making the orb visible after the countdown was added into the code
+2.  the direction of where the orb was going also was sort of a difficulty for me 
 to fix it so the orb would work
 
 making the orb visible:
@@ -23,3 +23,13 @@ orb direction:
                          thisOrb.setY((int) player.y);
                          thisOrb.setX(thisOrb.getX() + 10);
                      }
+3.  Also creating another class for the orb was difficult do to changing all of 
+the code to follow that of the orbs class
+4.  changing the hitbox variables for the enemies so they died when they 
+interacted with the orb
+5.  making the orb apper with a key command
+6.  making the orb apper from the character and not elsewhere
+7.  fixing so the orb doesn't travel to far from the player
+8.  importing the image in a diffrent size then what it was
+9.  didn't change from the actual player class and the player object
+10. geting the orb class to fuction with the rest of the code 
