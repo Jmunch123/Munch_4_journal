@@ -1,0 +1,15 @@
+The class constructor for the Player class. Within the constructor, we are creating an animation for the sprite. The animation is made up of multiple frames, each added to the animation using addFrame().
+
+We will not always use slick. It is merely a single library. There are thousands of different java libraries to choose from, so focusing on only one would be counterproductive.
+
+An array is a list. It contains one data type 
+
+String[] i = {“churro”, “pie”, “baklava”};
+
+it’s like an array, but it can contain multiple data types. to specify the type of data in an ArrayList, use <>
+
+ArrayList<Element> arraylist = _____;
+
+An array contains only one data type while an Array list can contain multiple data type
+
+
