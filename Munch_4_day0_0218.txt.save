@@ -1,0 +1,5 @@
+The code creates the animation for the sprite.
+
+We dont always use slick its only a single library and focusing on just one library would be counterproductive.
+
+An array is a list it The class constructor for the Player class. Within the constructor, we are creating an animation for the sprite. The animation is made up of multiple frames, each added to the animation using addFrame().
