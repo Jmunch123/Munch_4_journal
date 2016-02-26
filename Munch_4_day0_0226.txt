@@ -1,4 +1,4 @@
-this code uses the size of the map to print out either . or map[i][j] by 
+this code uses the size of the map to print out either '.' or 'map[i][j]' by 
 selecting a map with the value of zero and using integers to be either equal 
 or less than zero.
 
