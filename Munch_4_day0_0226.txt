@@ -1,0 +1,8 @@
+this code uses the size of the map to print out either . or map[i][j] by 
+selecting a map with the value of zero and using integers to be either equal 
+or less than zero.
+
+change i to equal 3 and the integer j would become 2 thus printing out x
+
+change the x to equal 5 and change the integers to equal the values that are 
+displayed in the array and it would print out as 5
