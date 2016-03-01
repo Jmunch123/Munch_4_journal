@@ -1,6 +1,0 @@
-The class Rat is a class called Rat
-public class Rat{
-}
-The decaration and initialization would be in the main code where the class would be called appon all the code that resides in that class would be shared with the rest of the code
-String[]Rat = {"Jerry", "Amanda", "Chad", "Kat", "Herold"};
- 
