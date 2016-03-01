@@ -1,0 +1,35 @@
+1.  public class Class{
+
+}
+2.  Donut Bismarck = new Donut();
+is not a class constructor but calls on the class constructor Donut();
+3.  public class Cake{
+    	String vanilla;
+	boolean isEaten;
+	int layers;
+	boolean hasCandles;
+	int candles 
+	
+	public Cake(String a, int b){
+		this.vanilla = a;
+		this.isEaten = false;
+		this.layers = b;	
+}
+//a getter gets, i.e., a getter will return values from an object, e.g.,
+	public boolean getisEaten(){
+		return this,isEaten;
+}
+//a setter sets variable values for an instance,
+	public void setisEaten(boolean b){
+		this.isEaten = b;
+}
+}
+4.  int[] coolNumberzzz; //this is an array of ints
+    String[] beFast; //this is an array of stings
+    boolean[] [] blocked; //this is a 2D array of booleans
+    Breakfast[] ReyesFamilyBreakfast;
+    Cake josh = new Cake("yellow", 3)
+5.  //This is using a setter!!
+	josh.setisEaten(true);
+6. //This is using a getter !!
+	josh.setisEaten();
