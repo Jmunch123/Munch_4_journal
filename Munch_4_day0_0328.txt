@@ -1,0 +1,21 @@
+Java is object oriented programming while C is fuction oriented. Most classes 
+are similar throughout the code like void and methods. Code commenting is the 
+same.
+
+I will alter the speed of the light as its blinking to make it either slower 
+or faster in the future.
+
+For a circuit are you talking about what is nessacary for the board to run a 
+program or something diffrent?
+
+The circit uses C and complies curtain parts of the board to meet to a specific 
+purpose
+
+The projects that we have completed consisted of several variations of lights 
+and sounds using the circuit board. The lights either change in brightness, 
+flicker on and off or light up at a certain time, doing so very specificly.
+I've leared about the several parts inside the kit and how they fuction due to
+the several examples that the book requires you to do. I have also been 
+exposed to a new programming language that the board runs on (which is C) 
+and how it fuctions through the program it runs on and the circuit itself. 
+That is what ive learned so far in this constructing a circuit project.  
