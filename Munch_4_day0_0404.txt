@@ -1,0 +1,5 @@
+We have altered the song in example 11, and are going to imput that song into the final product.
+We need to add lights to the specific tones in the song. 
+On Friday, we will turn in the rough draft of our project. 
+We are adding some code from both example 1 and 11 and trying to add them together to form a song in which the lights will flash to a specific beat. 
+We have created no new fuctions so far. 
