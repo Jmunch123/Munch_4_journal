@@ -1,0 +1,17 @@
+The 3 things that I have learned about cs with Arduino is how to manipulate 
+the tone of sounds with the buzzard, how to make light flash with specific 
+sounds and creating a song with the code. 
+The usage of sound in code was a surprise to me as we started this project. 
+We started creating a song by manipulating the tones of the buzzes to fit in 
+to specific notes in the song. We did this by setting a arraylist for the 
+notes and established those notes with specific buzz pitches.
+The way the light flashes with the song is a result of putting the code for 
+the light near the end of the loop method. Every time there is a buzz the 
+light flashes a millisecond after the buzz. 
+Establishing this after the delay for each buzz allowed the light to flash 
+after each buzz in the song.
+Putting the playTone, playNote, setup, and loop methods establish the code to 
+organize in order, the board scans the playTone, and playNote methods to gain 
+the pitches and length of the song. After words you set up the breadboard for 
+the specific parts needed to play the song, and the loop continues the song 
+over and over again.  
