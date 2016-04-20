@@ -1,0 +1,14 @@
+The elf64 output formats generate ElF64 object files, as used by linux. Elf
+provides a default output file-name extensions of .o
+
+Loads one byte indirect with or without displacement from the data space to 
+register in the program 
+
+chmod changes the access permissions to the file system objects, which you 
+dont neeed to run the program.
+
+Assembly isn't quick and easy due to how many alterations you need to 
+incoperate into the code, and we just experienced this new coding languages 
+but it would be with more experience.
+
+Low-Level means it is easy for the computer, but not easy for a human.

@@ -1,0 +1,9 @@
+My biggest Challenge in HRM was year 19 where every number in the inbox had
+to count down or up to 0.
+
+The previous year taught how to remove the negative symbol from a number in
+the inbox, how I solved this is that I established several jumbs after
+the inbox to set it onto either 0,1,or 2 than I subtracted twice which helped
+prepare me for year 19
+
+I was on 18 for two days straight trying to figure it out.
