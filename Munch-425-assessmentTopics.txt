@@ -1,0 +1,12 @@
+The ten concepts that I belive will be covered on the test would be
+1.The diffrences between the codes we have covered throughout the year.
+2.The creation of objects through java
+3.The understading of arraylists
+4.The coding of a breadboard
+5.The diffrences between assembly and java
+6.if and else statments
+7.diffrences between a class and a method
+8.The understanding  of importing code
+9.u wut m8(see num 11.)
+10.publishing to git repositories
+11.coding in arduino  
