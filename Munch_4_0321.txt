@@ -1,0 +1,6 @@
+Hunter's Game
+Playability - his game can be replayed several times, and the enemies and items were randomized pretty well in his code 10.
+Originality - all the games were original and Hunter made his game look like a classic dungeon crawler 7.
+Code quality - Hunter put in many hours to coding the game, the organization is spot on, the code all seems to function leading to a working game 10
+
+total points 27/30
