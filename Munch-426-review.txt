@@ -1,0 +1,26 @@
+1.
+public int cube(int c){
+
+return c*c*c;
+}
+
+2.
+void returnnum();
+int qets, squr;
+squr = qets * qets * qets
+return squr;
+
+3.
+public class student{
+
+public student(String stud){
+
+student stud = new student();
+}
+}
+
+4.
+If we continued with Arduino I would most likely create a cube out of LEDs 
+and code them to change colors after a certain time has passed. I would most
+likely ues the code that we created using the breadboard project and establish
+songs and even more cubes even.
