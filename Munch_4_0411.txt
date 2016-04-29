@@ -13,7 +13,12 @@ High level is hard for the computer to understand and low level is easy for the 
 to understand.
 
 Which type is Java? How do you know? 
-Java is high-level because it is not automated and isn't very easy.
+Java is high-level because it is abstracted, after you have finished your 
+code for your game, and run it you don't need code to allow it to be displayed 
+it already can do it based on the construction code that runs on that program 
+for instance Java.
 
 Which type is assembly?
-Assembly is low-level because it can be automated and is easier.
+Assembly is low-level because you need to add code to allow the fuction to be 
+displayed while than fuctioning on its own, it needs to be directed than coded 
+like that already
