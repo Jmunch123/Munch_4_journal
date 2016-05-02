@@ -1,5 +1,14 @@
+What have you done?
 We have altered the song in example 11, and are going to imput that song into the final product.
-We need to add lights to the specific tones in the song. 
-On Friday, we will turn in the rough draft of our project. 
-We are adding some code from both example 1 and 11 and trying to add them together to form a song in which the lights will flash to a specific beat. 
-We have created no new fuctions so far. 
+What do you need to do?
+We need to add lights to the specific tones in the song.
+What will you be able to turn in on Friday?
+On Friday, We will be able to turn in the song but without any lights blinking along with the song. 
+What code changes are you writing?
+We are using example 1 and 11 and making a song that lights blink along with certain pitches of tone in the song.
+What functions have you created?
+We have created two fuctions, one that uses specific tones that the buzzer makes to fit certain notes in the song and the other is that the light blinks along with the code without stoping it all together.
+ 
+
+
+
