@@ -1,0 +1,48 @@
+1.What is an array?
+An array is a list that contains one data type
+
+2.How does one make a simple array of Strings?
+String[]i= {"tomato","onion","lettuce"};
+
+3.What is the syntax for a 2-D array?
+char[][] map = new char[30][30];
+
+4.What is the syntax for a 3-D array?
+double mydetails[][][] = new double[][][]{ { {0.1,0.2 },{0.5} }, { {0.1,0.2 },
+{0.5} }, { {0.1,0.2 },{0.5} } };
+
+5.How does one change the value for the third value in a one dimensional 
+array? [Give specific code]
+
+
+6.What is the syntax for a while loop?
+while(!bread){
+static void sandwich(){
+}
+}
+
+7.Why use while loops in your game?
+The usage of while loops would allow the player to move around infintaly 
+until the interseption of a win or  lose obstcale, this would end the loop 
+ending the code. 
+
+8.How will you call your game in main?
+The methods will be called in the main to run the game ex: Map();
+
+9.Why was it recommended that you use .toLowerCase() with your Scanner input?
+This was recommended so instead of making a mess with the if statments with 
+movement if the player either uses caps or lower it will read the caps as a 
+lower case
+
+10.You should use different methods when moving the protagonist and to check 
+for intersections. How? Why?
+using diffrent methods for the movement of the player would allow other 
+methods to use each seprate action, if he moved right I move right exetera, 
+but it would also organize enemy methods by moving a diffrent direction for 
+every action.
+
+11.What values will you pass across methods? how? why?
+The values that will be passed across methods would be the players coordinates
+, so the enemy could follow the player until they are inturcepted or the 
+player wins or losses. 
+ 
