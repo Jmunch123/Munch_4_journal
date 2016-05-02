@@ -4,3 +4,17 @@ Originality - all the games were original and Hunter made his game look like a c
 Code quality - Hunter put in many hours to coding the game, the organization is spot on, the code all seems to function leading to a working game 10
 
 total points 27/30
+
+Kristine's Game
+Playability - Kristines game is incomplete but cannot be played due to  but is funn running around the map with no end. 3
+Originality - Her game is sort of a basic consept but no originallity in it at all. 2
+Code quality - Her game was incomplete but most of her code wasn't confusing and you could easily understand it. 7
+
+total points 12/30
+
+Addison's Game
+Playability - Addison's game was a bit difficult to understad and a bit boring at time. 5
+Originality - The game is original n doubt in that with a whole entire diffrent map as well, and the portals were cool too. 10
+Code quality - Her code was very well organized and could easily be followed and undersood by a basic cs student. 10
+
+total points 25/30

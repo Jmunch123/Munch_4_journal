@@ -13,3 +13,13 @@ Approaching a problem with more of a positive attitude and allowing yourself
 to tinker around with the newly based code allowed me to exell throughout the 
 game.
 
+The majorities of the problem  consisted of mathmatics in which you would have
+to multiply or add to get the answer, so with my basic skills that I've learned 
+from math classes I used the basic methods that the game provided and solved the
+problems.
+
+When I anwsered the question in some of the years, only the code that I had worked 
+with some imput sequences, knowing this I back tracked and rewrote the code to find 
+the issue, sometimes it would have been a jump error, but ocasionally it was a very 
+silly mistake
+
