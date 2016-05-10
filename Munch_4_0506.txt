@@ -1,0 +1,25 @@
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+the x coordinate is 43 and the y is 67 by the if statment declaring the larger number in the grid to System.out.println instead of System.out.print
+
+Write the code from line #a and explain what it does.
+if (i=0){ System.out.print("8888");
+this line of code states if the i variable is equal to 0 it prints 8888 at the border of the grid
+
+Write the code from line #b and explain what it does.
+System.out.print(map[i][j]);
+this decides to print either the x or the . on the grid, if the if statment is true for the x or dot it will print that, basicaly prints what its told to do
+
+Write the code from line #c and explain what it does. Explain how its different than #e
+System.out.println(".");
+this prints the dots on the next line on the grid, while line e would only print dots on the one line.
+
+Write the code from line #d and explain what it does.
+System.out.println(map[i][j]);
+this is nearly the same as line b exept whatever it is told to print it prints it on the next line of the grid instead of the same line
+
+Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+Explain the use of static.
+the usage of 
+
+Provide an example of how you could use an object with your game. Give a code example.
+I could incoperate armor for my character in which if he intersects the traps or enemies he loses that armor, instead of dying,

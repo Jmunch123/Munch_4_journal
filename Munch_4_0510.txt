@@ -1,0 +1,40 @@
+Create a class for 'hero'
+The class should contain:
+variables for health, score, power/weapon, dexterity, perception, level, x, y, z, and a symbol
+There should also be a class constructor accepting inputs for name, x, y, and symbol
+
+public class Hero{
+
+public static int Health = 25;
+pulbic static int Score = 0;
+public static boolean weapon = false;
+public static int dexterity = 30;
+public static int perception = 40;
+public static int level;
+public static int x,y,z;
+public static int symbol;
+
+public Hero(int x , int y, int symbol){
+	walkcycle = x;
+	camera = y;
+	$ = symbol;
+
+}
+
+}
+
+Provide an example of initializing a hero object with your name
+
+public class hero{
+public static int name;
+Scanner Name = new Scanner(System.in);
+System.out.println("What is your name");
+name = Name.nextInt();
+}
+
+Explain why you would not initialize the hero in class hero.
+
+The reason why the hero class shouldn't be initalized in class hero is because if it is 
+intialized in class hero the variables that are used in that class  will have to be 
+constantly called from that class into a method or other class if it is intitalized in 
+the main class than all the code would be able to use the variables in class hero freely. 
