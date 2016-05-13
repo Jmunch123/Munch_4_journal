@@ -1,0 +1,13 @@
+I had no idea that the slick assignment and the 2-d array were alike in the
+way that we programed them until I saw the requirements for the game
+
+1. how do you declare a method
+2. how do you initialize a class
+3. write the code to allow enemies to chase after you
+4. what is a class constucter
+5. how would you program a skill for the player/ enemy
+6. what code did you write to make the traps not visible
+7. how would you postpone curtain story elements
+8. use java to draw out a 2-d array
+9. what is the diffrence from a 2-d array and a 3-d array
+10. would you write all the code in the main?
