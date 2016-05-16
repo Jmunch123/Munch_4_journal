@@ -1,0 +1,36 @@
+Explain casting. Up-casting, Down-casting.
+Casting is taking an object of one certain type and turning it into another 
+object type
+Up-casting puts the object into a diffrent group but it still functions as 
+that object. 
+Down-casting allows the object to seperate from the specific grouping, 
+allowing the properties of that object to be manipulated once more
+
+
+Give a specific code example for up-casting, and down-casting.
+class Animal {
+	int health = 100;
+}
+
+class Mammal extends Animal { }
+
+class Cat extends Mammal { }
+
+class Dog extends Mammal { }
+
+public class Test {	 
+	 public static void main(String[] args) {
+		 Cat c = new Cat();
+		 System.out.println(c.health);
+		 Dog d = new Dog();
+		 System.out.println(d.health);
+	 }  
+}
+Give a specific code example for converting a char to a String
+String stringValueOf = String.valueOf('c');
+or
+String stringValueOfCharArray = String.valueOf(new char[]{x});
+What is the range of values for byte? Why?
+-128 to 127, because negative integers are represented in a system called two's
+ complement, which allows easier arithmetic processing in hardware, and also 
+eliminates the potential ambiguity of having positive zero and negative zero. 
